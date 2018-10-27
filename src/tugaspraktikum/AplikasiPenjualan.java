@@ -186,7 +186,7 @@ public class AplikasiPenjualan {
     System.out.println(namabarang2);
     System.out.println(harganya + " * " + jumlahalat + " = " + hargaalat);
     System.out.println("\nTotal harga = " + bayar);
-    System.out.println("\n    Terima kasih telah berbelanja!   ");
+    System.out.println("\nTerima kasih! Semoga harimu menyenangkan!");
     System.out.println("---------Toko Buku Penting Laku--------");
     
 }
